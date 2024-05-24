@@ -1,10 +1,10 @@
-$scheme-name: "modern";
-$base-color: #1e1e1e;
-$highlight-color: #3858e9;
-$menu-submenu-focus-text: #33f078;
-$notification-color: $highlight-color;
+$scheme-name: "ocean";
+$base-color: #738e96;
+$icon-color: #f2fcff;
+$highlight-color: #9ebaa0;
+$notification-color: #aa9d88;
+$low-contrast-theme: "true";
 
-$link: $highlight-color;
-$link-focus: darken($highlight-color, 10%);
+$form-checked: $base-color;
 
 @import "../_admin.scss";
