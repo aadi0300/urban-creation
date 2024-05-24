@@ -1,10 +1,7 @@
-$scheme-name: "ocean";
-$base-color: #738e96;
-$icon-color: #f2fcff;
-$highlight-color: #9ebaa0;
-$notification-color: #aa9d88;
-$low-contrast-theme: "true";
-
-$form-checked: $base-color;
+$scheme-name: "sunrise";
+$base-color: #cf4944;
+$highlight-color: #dd823b;
+$notification-color: #ccaf0b;
+$menu-submenu-focus-text: lighten( $highlight-color, 35% );
 
 @import "../_admin.scss";
