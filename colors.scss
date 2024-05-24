@@ -1,12 +1,9 @@
-$scheme-name: "blue";
-$base-color: #52accc;
-$icon-color: #e5f8ff;
-$highlight-color: #096484;
-$notification-color: #e1a948;
-$button-color: #e1a948;
+$scheme-name: "coffee";
+$base-color: #59524c;
+$highlight-color: #c7a589;
+$notification-color: #9ea476;
+$low-contrast-theme: "true";
 
-$menu-submenu-text: #e2ecf1;
-$menu-submenu-focus-text: #fff;
-$menu-submenu-background: #4796b3;
+$form-checked: $base-color;
 
 @import "../_admin.scss";
